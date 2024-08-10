@@ -9,6 +9,6 @@ Learning Java , Kotlin , C++ , Python 👩‍💻
 <br>
 Learning DSA 
 <br>
-Pursuing B.Tech .
+Pursuing B.Technologey .
 <br>
 Studying in  TCEA'26 in CSE 👨‍🎓
